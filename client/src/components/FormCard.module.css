@@ -1,0 +1,11 @@
+.card {
+  width: 360px;
+}
+
+.button {
+  background-color: aqua;
+}
+
+.button:hover {
+  background-color: rgba(0, 255, 255, 0.906);
+}
